@@ -1,0 +1,46 @@
+
+.button {
+    background-color:#6c5b7b;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 9px;
+}
+body {
+margin: 0;
+padding: 20px;
+color: #201e1b;
+background-color: #fad7ca;
+}
+
+.riga {
+display: flex;
+}
+
+.scheda {
+width: 30%;
+margin: 10px;
+padding: 15px;
+background-color: #ffffff;
+border: 1px solid #ffffff;
+border-radius: 10px;
+}
+
+.scheda-titolo {
+color: #6c5b7b;
+font-weight: bold;
+text-transform: uppercase;
+}
+
+h1 {
+  color: #6c5b7b;          
+  margin: 0;              
+  padding: 15px 0;         
+  width: vw;              
+  text-align: center;  
+}
